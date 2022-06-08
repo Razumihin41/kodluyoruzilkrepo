@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Git ve Github > Kodluyoruzilkrepo Projesi -> https://app.patika.dev/razumihin profilim
+Git ve Github > Kodluyoruzilkrepo Projesi --> https://app.patika.dev/razumihin profilim
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Frond-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
